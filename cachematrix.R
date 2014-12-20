@@ -1,4 +1,4 @@
-## Define two functions that can calculate cacheable inverse matrix
+## Define two functions that can cache inverse matrix
 
 ## This function is assigned to create special matrix object of cacheable inverse matrix
 makeCacheMatrix <- function(x = matrix()) {
